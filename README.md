@@ -2,7 +2,7 @@
 
 Elixir CLI that transforms color values.
 
-[example](example.gif)
+![example](example.gif)
 
 ## Installation
 
