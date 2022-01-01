@@ -1,0 +1,3 @@
+%{
+  "chameleon": {:hex, :chameleon, "2.4.0", "062005d19eb766cf22498cc2335654ccc23cf1c00e681d3491f1520a8179b62e", [:mix], [], "hexpm", "52af33c6ff4811584e53deb37e7db81c0a76653a282822f4d7342063290a5857"},
+}
